@@ -8,8 +8,6 @@ body {
     margin: 0;
     background: #ffffff;
     font-family: "Crimson Text", Georgia, serif;
-    border-left: 12px solid #0f4d92;
-    border-right: 12px solid #0f4d92;
     min-height: 100vh;
 }
 
@@ -30,16 +28,11 @@ body {
 h1, h2, h3 {
     font-weight: 700;
     margin: 2rem 0 .8rem 0;
-    text-align: center;
 }
 
 h1 { font-size: 1.2em; }
 h2 { font-size: 1.1em; }
 h3 { font-size: 1.05em; }
-
-.email {
-    text-align: center;
-}
 
 .paper {
     padding: 1.3rem 0;
